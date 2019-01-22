@@ -1,5 +1,7 @@
 ## Research articles by areas
 
+Reviewed papers and attack areas in the survey paper "Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey".
+
 - - - 
 ### Research areas
 
