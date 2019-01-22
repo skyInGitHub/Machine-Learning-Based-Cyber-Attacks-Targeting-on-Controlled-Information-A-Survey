@@ -6,16 +6,17 @@ _ _ _
 
 ## Table of contents
 * Research articles by areas 
-* Dataset types
-  * Organization reports and datasets
-  * 
+* Data sources used by attacks
+  * Stealing controlled user activities information
+  * Stealing controlled ML model related information
+  * Stealing controlled authentication inforamtion
   
 _ _ _
 
 ### Research articles by areas
-- [1] Stealing controlled user activities using kernel data - attack with timing analysis:[No pardon for the interruption: New inference attacks on android through interrupt timing analysis (S&P, 2016)](https://www.researchgate.net/profile/Zhou_Li24/publication/306304394_No_Pardon_for_the_Interruption_New_Inference_Attacks_on_Android_Through_Interrupt_Timing_Analysis/links/5a57ae3445851529a2edbd18/No-Pardon-for-the-Interruption-New-Inference-Attacks-on-Android-Through-Interrupt-Timing-Analysis.pdf)
+- [1] Stealing controlled user activities using kernel data - attack with timing analysis: [No pardon for the interruption: New inference attacks on android through interrupt timing analysis (S&P, 2016)](https://www.researchgate.net/profile/Zhou_Li24/publication/306304394_No_Pardon_for_the_Interruption_New_Inference_Attacks_on_Android_Through_Interrupt_Timing_Analysis/links/5a57ae3445851529a2edbd18/No-Pardon-for-the-Interruption-New-Inference-Attacks-on-Android-Through-Interrupt-Timing-Analysis.pdf)
 
-- [2] Stealing controlled user activities using kernel data - attack with timing analysis:[ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android (ACM Asia CCS, 2018)](https://rspreitzer.github.io/publications/proc/asiaccs-2018-paper-2.pdf)
+- [2] Stealing controlled user activities using kernel data - attack with timing analysis: [ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android (ACM Asia CCS, 2018)](https://rspreitzer.github.io/publications/proc/asiaccs-2018-paper-2.pdf)
 
 - [3] Stealing controlled user activities using kernel data - iOS side-channel attack: [OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS (NDSS, 2018)](http://web.cse.ohio-state.edu/~zhang.834/papers/ndss18a.pdf) 
 
@@ -54,10 +55,10 @@ _ _ _
 - [20] Stealing controlled password data for authentication - protect with modeling password guessability: [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (USENIX, 2016)](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf)
 
 _ _ _
-### Dataset types
+### Dataset sources used by attacks
 
 _ _ _
-#### Organization reports and datasets
+#### Stealing controlled user activities information
 |Related paper         | Dataset          | Introduction |
 | -------------------- |:----------------:| --------:|
 |[1][2]     | [VERIS community database](http://veriscommunity.net/index.html) | The vocabulary for event recording and incident sharing|
@@ -69,6 +70,7 @@ _ _ _
 |[17]|[KEIO, WIDE-08 and WIDE-09 traces](http://mawi.wide.ad.jp/mawi/)|Public traffic data repository|
 |[10]|[ExploitDB](https://www.exploit-db.com/)|Offensive Security’s Exploit Database Archive|
 |[10]|[Microsoft’s Exploitability Index](https://technet.microsoft.com/en-us/security/cc998259.aspx)|Recording exploitability information|
+
 _ _ _
 #### Executables
 |Related paper         | Dataset          | Introduction|
@@ -80,7 +82,7 @@ _ _ _
 |[18]              |[Google Play](https://play.google.com/store)     |Offical app store for the Android operating system|
 
 _ _ _
-#### Network datasets
+#### Stealing controlled ML model related information
 |Related paper         | Dataset          | Introduction|
 | -------------------- |:----------------:| --------:|
 |[6]| [Open recursive projects](http://openresolverproject.org/)|Open Resolvers pose a significant threat to the global network infrastructure by answering recursive queries for hosts outside of its domain. They are utilized in DNS Amplification attacks and pose a similar threat as those from Smurf attacks commonly seen in the late 1990s. A list of 32 million resolvers that respond to queries in some fashion are collected in this project.|
@@ -89,27 +91,13 @@ _ _ _
 |[6][14]|[University of Oregon Route Views Project](http://www.routeviews.org/routeviews/)|The University's Route Views project was originally conceived as a tool for Internet operators to obtain real-time BGP information about the global routing system from the perspectives of several different backbones and locations around the Internet.|
 |[6]|[Spoofer project](https://www.caida.org/projects/spoofer/)|The team is developing and supporting open-source software tools to assess and report on the deployment of source address validation (SAV) best anti-spoofing practices|
 |[6]|[Zmap](https://github.com/zmap/zmap)|Zmap is a modular, open-source network scanner specifically architected to perform Internet-wide scans and capable of surveying the entire IPv4 address space in under 45 minutes from user space on a single machine, approaching the theoretical maximum speed of gigabit Ethernet.|
-- - --
-#### Synthetic datasets
+
+_ _ _
+#### Stealing controlled authentication inforamtion
 |Related paper         | Dataset          | Introduction|
 | -------------------- |:----------------:| --------:|
 |[5]|Synthetic obfuscation C code|5 obfuscating transformations apply to each of 4608 synthetic C programs with security check. Totally, 23,040 synthetic obfuscation C programs are included in this dataset.|
 |[14]|Sythetic network graph|A simple graph represented by four main node patterns: “center of a star”, “edge of a star”, “bridge nodes” (connecting stars/cliques), and “clique nodes”.|
 
 
-- - -
-#### Webpage data 
-|Related paper         | Dataset          | Introduction|
-| -------------------- |:----------------:| --------:|
-|[7]|SEO, porn and gambling webpages| Webpages marked as “evil” by [Baidu](http://www.baidu.com/)|
-|[8]|Malicious and benign websites| Malicious websites are collected from [PhishTank blacklists](https://www.phishtank.com) and the “search-redirection attacks” list; benign websites are gathered from [entire.com zone file](entire.com) and validated by multiple reputation blacklists, including [PhishTank blacklists](https://www.phishtank.com), “search-redirection attacks” list, [DNS-BH](http://www.malwaredomains.com), [Google SafeBrowsing](https://code.google.com/apis/safebrowsing/), and [hpHosts blacklists](https://code.google.com/apis/safebrowsing/)|
-
-_ _ _
-#### Social media data
-|Related paper         | Dataset          | Introduction|
-| -------------------- |:----------------:| --------:|
-|[10][15]|Tweets crawled from [Twitter](https://twitter.com/)|Twitter is a social media platform which includes from breaking news and entertainment to sports and politics.|
-|[13]|User reviews from Google Play|Each review is manually labeled as one or more security-related behaviors (spamming, financial issues, over priviledged permissions and data leakage)|
-|[11]|71,000 articles from leading technical blogs| Technical blogs: (1)[Dancho Danchev](https://ddanchev.blogspot.com.au) (2)[Naked Security](https://nakedsecurity.sophos.com) (3)[The hacker news](https://thehackernews.com) (4)[Webroot](http://webroot.com) (5)[Threat Post](https://threatpost.com) (6)[TaoSecurity](https://taosecurity.blogspot.com.au) (7)[Sucuri](https://sucuri.net) (8)[PaloAlto](https://researchcenter.paloaltonetworks.com) (9)[Malwarebytes](https://researchcenter.paloaltonetworks.com) (10)[Hexacorn](http://www.hexacorn.com/blog/)|
-_ _ _
 
