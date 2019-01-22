@@ -16,7 +16,7 @@ _ _ _
 
 - [3] Stealing controlled user activities using kernel data - iOS side-channel attack: [OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS (NDSS, 2018)](http://web.cse.ohio-state.edu/~zhang.834/papers/ndss18a.pdf) 
 
-- [4] Stealing controlled user activities using kernel data - protect using privacy mechanism: [Mitigating Storage Side Channels Using Statistical Privacy Mechanisms (ACM CCS, 2015)](http://delivery.acm.org/10.1145/2820000/2813645/p1582-xiao.pdf?ip=101.176.75.238&id=2813645&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E8A0A9AC1EB2AB412&__acm__=1548109844_6c1cf52609d70310cf4b692aac1e7a7b)
+- [4] Stealing controlled user activities using kernel data - protect using privacy mechanism: [Mitigating Storage Side Channels Using Statistical Privacy Mechanisms (ACM CCS, 2015)](https://dl.acm.org/citation.cfm?id=2813645)
 
 - [5] Stealing controlled user activities using sensor data - sensor-based attack: [Leave Your Phone at the Door: Side Channels that Reveal Factory Floor Secrets (ACM CCS, 2016)](http://seclab.illinois.edu/wp-content/uploads/2016/10/CCS_2016___3D_Printer.pdf)
 
