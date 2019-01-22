@@ -5,7 +5,7 @@ Everything about the datasets and data sources mentioned in the survey paper "Ma
 _ _ _
 
 ## Table of contents
-* [Research articles by areas](../paper.md) 
+* [Research articles by areas](paper.md) 
 * Data sources used by attacks
   * Stealing controlled user activities information
   * Stealing controlled ML model related information
