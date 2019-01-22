@@ -6,7 +6,7 @@
 <p>Leveraging the query inputs and outputs, model description can be stolen by equation-solving, patch-finding and linear least square methods, while training samples can be stolen by model inversion attack, the GAN attack, and membership inference attack.</p>
 
 <p align="center"><img width="725" alt="attack_ml" src="https://user-images.githubusercontent.com/13388819/51515245-040df880-1e67-11e9-9ac6-a25db9fac554.png"></p> 
-<p align="center">Fig. The ML-based Stealing Attack Against ML Model Related Information</p>
+<p align="center">Fig 3. The ML-based Stealing Attack Against ML Model Related Information</p>
 
 
 ### Data source
