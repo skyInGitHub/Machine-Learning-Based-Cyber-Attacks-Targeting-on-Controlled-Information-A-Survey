@@ -6,7 +6,7 @@
 <p> According to utilized kernel data and sensor data, controlled user activities information were stolen with timing analysis and frequency analysis. For the attack using kernel data, we review the attack utilizing the interrupt sources like procfs and OS-level information like memory, network, and file system information. The sensor information can reveal the controlled user activity information indirectly, i.e. acoustic and magnetic data.</p>
 
 <p align="center"><img width="725" alt="attack_activity" src="https://user-images.githubusercontent.com/13388819/51515178-cdd07900-1e66-11e9-92d4-3f36e5510d29.png"></p> 
-<p align="center">Fig. The ML-based Stealing Attack Against User Activities Information</p>
+<p align="center">Fig 2. The ML-based Stealing Attack Against User Activities Information</p>
 
 
 ### Data source
