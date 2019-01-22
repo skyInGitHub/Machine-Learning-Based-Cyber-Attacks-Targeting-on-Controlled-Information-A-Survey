@@ -5,7 +5,8 @@ Reviewed papers and attack areas in the survey paper "Machine Learning Based Cyb
 - - - 
 ### Research areas
 
-<p align="center"><img width="701" alt="categories" src="https://user-images.githubusercontent.com/13388819/51514334-6107af80-1e63-11e9-99c7-de81fdddabae.png" /></p>
+<p align="center"><img width="701" alt="categories" src="https://user-images.githubusercontent.com/13388819/51514334-6107af80-1e63-11e9-99c7-de81fdddabae.png" ></p>
+<p align="center">Fig 1. Investigated Stealing Controlled Information Attack Categories. (Info: information) </p>
 
 _ _ _
 ### Research articles
