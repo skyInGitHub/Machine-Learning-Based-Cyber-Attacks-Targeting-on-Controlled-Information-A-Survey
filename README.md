@@ -20,7 +20,7 @@ _ _ _
 
 - [3] Stealing controlled user activities using kernel data - iOS side-channel attack: [OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS (NDSS, 2018)](http://web.cse.ohio-state.edu/~zhang.834/papers/ndss18a.pdf) 
 
-- [4] Stealing controlled user activities using kernel data - protect using privacy mechanism: [Mitigating Storage Side Channels Using Statistical Privacy Mechanisms (ACM CCS, 2015)](http://delivery.acm.org/10.1145/2820000/2813645/p1582-xiao.pdf?ip=101.176.75.238&id=2813645&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E8A0A9AC1EB2AB412&__acm__=1548109844_6c1cf52609d70310cf4b692aac1e7a7b)
+- [4] Stealing controlled user activities using kernel data - protect using privacy mechanism: [Mitigating Storage Side Channels Using Statistical Privacy Mechanisms (ACM CCS, 2015)](https://dl.acm.org/citation.cfm?id=2813645)
 
 - [5] Stealing controlled user activities using sensor data - sensor-based attack: [Leave Your Phone at the Door: Side Channels that Reveal Factory Floor Secrets (ACM CCS, 2016)](http://seclab.illinois.edu/wp-content/uploads/2016/10/CCS_2016___3D_Printer.pdf)
 
@@ -59,17 +59,13 @@ _ _ _
 
 _ _ _
 #### Stealing controlled user activities information
-|Related paper         | Dataset          | Introduction |
-| -------------------- |:----------------:| --------:|
-|[1][2]     | [VERIS community database](http://veriscommunity.net/index.html) | The vocabulary for event recording and incident sharing|
-|[1]    | [Hackmageddon](https://www.hackmageddon.com/)      | Information security timelines and statistics  |
-|[1] | [Web Hacking Incidents Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database)|  Recording web hacking incident |
-|[3]|[VirusTotal](https://www.virustotal.com/en/faq/)| Analyzing suspicious files and URLs to detect types of malware|
-|[3]|[National Software Reference Library (NSRL)](https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl)| Providing a reference data set (RDS) of benign software|
-|[3][10]|[Symantec’s Worldwide Intelligence Network Environment (WINE)](https://www.symantec.com/)| Security related data set, including malware, vulnerabilty exploited and so on|
-|[17]|[KEIO, WIDE-08 and WIDE-09 traces](http://mawi.wide.ad.jp/mawi/)|Public traffic data repository|
-|[10]|[ExploitDB](https://www.exploit-db.com/)|Offensive Security’s Exploit Database Archive|
-|[10]|[Microsoft’s Exploitability Index](https://technet.microsoft.com/en-us/security/cc998259.aspx)|Recording exploitability information|
+|Related paper         | Data source          | Introduction|
+|:-------------|:------------------|:------|
+|[1]       |[Unlock Pattern](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546515) |Experimental dataset for unlock pattern inference attack enumerated in Appendix of paper [1]|
+|[1][2][3] |[Google Paly](https://play.google.com/store)  |Offical app store for the Android operating system |
+|[3]          |[Alexa Top Website](https://www.alexa.com/topsites)      |List of top 500 global websites |
+|[3]          |[Moz Top Website](https://moz.com/top500)          |List of the top 500 registered domains (∗.example.com) ranked by the number of linking root domains. |
+
 
 _ _ _
 #### Stealing controlled ML model related information
