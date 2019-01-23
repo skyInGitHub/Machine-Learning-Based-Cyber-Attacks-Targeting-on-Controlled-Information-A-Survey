@@ -1,5 +1,4 @@
-# Stealing controlled user activities information
-One area of stealing attack categorized by the Survey paper "Machine Learning Based Cyber Attacks Targeting on Controlled Information:A Survey".
+## Stealing controlled user activities information
 
 _ _ _
 ### ML-based Stealing Attack
