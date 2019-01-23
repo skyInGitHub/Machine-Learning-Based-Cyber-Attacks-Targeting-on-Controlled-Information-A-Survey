@@ -11,3 +11,7 @@ _ _ _
   * [Stealing controlled ML model related information](ml_model_related.md)
   * [Stealing controlled authentication inforamtion](authentication.md)
   
+
+
+
+[back](https://github.com/skyInGitHub/Machine-Learning-Based-Cyber-Attacks-Targeting-on-Controlled-Information-A-Survey)
