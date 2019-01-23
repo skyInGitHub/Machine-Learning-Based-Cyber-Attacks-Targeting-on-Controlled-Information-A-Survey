@@ -89,13 +89,13 @@ _ _ _
 |[7][11] |[Adult(Income)](https://archive.ics.uci.edu/ml/datasets/Adult) |Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset. |
 |[7][8] |[Iris](https://archive.ics.uci.edu/ml/datasets/Iris) |A best known database in the pattern recognition literature. |
 |[7] |[Optical Recognition of Handwritten Digits Data Set](https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits) |Normalized bitmaps of handwritten digits from a preprinted form |
-|[7] |[Breast Cancer Wisconsin (Original) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29) |Original Wisconsin Breast Cancer Database |
-|[7] |[Mushroom Data Set](https://archive.ics.uci.edu/ml/datasets/Mushroom) |Mushrooms described in terms of physical characteristics; classification: poisonous or edible |
-|[7][8] | [Diabetes](https://archive.ics.uci.edu/ml/datasets/Diabetes) |Diabetes patient records were obtained from two sources: an automatic electronic recording device and paper records. |
-|[8] |[Geographical Original of Music Data Set](https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music) |Instances in this dataset contain audio features extracted from 1059 wave files. |
-|[8] |[UJIIndoorLoc Data Set](https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc) |A Multi-Building Multi-Floor indoor localization database to test Indoor Positioning System that rely on WLAN/WiFi fingerprint.|
-|[8] |[Madelon Data Set](https://archive.ics.uci.edu/ml/datasets/Madelon) |An artificial dataset, which was part of the NIPS 2003 feature selection challenge. |
-|[8] |[Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) |Related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). |
+|[7] |[Breast Cancer Wisconsin (Original)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29) |Original Wisconsin Breast Cancer Database |
+|[7] |[Mushroom](https://archive.ics.uci.edu/ml/datasets/Mushroom) |Mushrooms described in terms of physical characteristics; classification: poisonous or edible |
+|[7][8] |[Diabetes](https://archive.ics.uci.edu/ml/datasets/Diabetes) |Diabetes patient records were obtained from two sources: an automatic electronic recording device and paper records. |
+|[8] |[Geographical Original of Music](https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music) |Instances in this dataset contain audio features extracted from 1059 wave files. |
+|[8] |[UJIIndoorLoc](https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc) |A Multi-Building Multi-Floor indoor localization database to test Indoor Positioning System that rely on WLAN/WiFi fingerprint.|
+|[8] |[Madelon](https://archive.ics.uci.edu/ml/datasets/Madelon) |An artificial dataset, which was part of the NIPS 2003 feature selection challenge. |
+|[8] |[Bank Marketing](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) |Related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). |
 |[9] |[FiveThirtyEight](https://fivethirtyeight.com/features/how-americans-like-their-steak/)  |Sharing the data and code behind some of our articles and graphics. |
 |[10][11] |[MNIST](http://yann.lecun.com/exdb/mnist/) |The benchmark dataset of choice in several deep learning applications. It consists of handwritten grayscale images of digits ranging from 0 to 9. Each image is of 32 × 32 pixels and centered. |
 |[10] |[AT&T dataset of faces](https://www.kaggle.com/sivarajh/olivetti-faces) |a.k.a. Olivetti dataset of faces. Consists of grayscale images of faces of several persons taken in different positions. |
