@@ -1,4 +1,4 @@
-# Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey  (#title)
+# Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey
 
 Everything about code sources, datasets and data sources mentioned in the survey paper "Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey".
 
@@ -115,5 +115,4 @@ _ _ _
 |[14]|Sythetic network graph|A simple graph represented by four main node patterns: “center of a star”, “edge of a star”, “bridge nodes” (connecting stars/cliques), and “clique nodes”.|
 
 
-
-[top](#title) [back](https://github.com/skyInGitHub/Machine-Learning-Based-Cyber-Attacks-Targeting-on-Controlled-Information-A-Survey)
+[back](https://github.com/skyInGitHub/Machine-Learning-Based-Cyber-Attacks-Targeting-on-Controlled-Information-A-Survey)
