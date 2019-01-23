@@ -28,7 +28,7 @@
 |[8] |[UJIIndoorLoc Data Set](https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc) |A Multi-Building Multi-Floor indoor localization database to test Indoor Positioning System that rely on WLAN/WiFi fingerprint.|
 |[8] |[Madelon Data Set](https://archive.ics.uci.edu/ml/datasets/Madelon) |An artificial dataset, which was part of the NIPS 2003 feature selection challenge. |
 |[8] |[Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) |Related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). |
-|[9]       |[FiveThirtyEight](https://fivethirtyeight.com/features/how-americans-like-their-steak/)  |Sharing the data and code behind some of our articles and graphics. |
+|[9] |[FiveThirtyEight](https://fivethirtyeight.com/features/how-americans-like-their-steak/)  |Sharing the data and code behind some of our articles and graphics. |
 |[10][11] |[MNIST](http://yann.lecun.com/exdb/mnist/) |The benchmark dataset of choice in several deep learning applications. It consists of handwritten grayscale images of digits ranging from 0 to 9. Each image is of 32 × 32 pixels and centered. |
 |[10] |[AT&T dataset of faces](https://www.kaggle.com/sivarajh/olivetti-faces) |a.k.a. Olivetti dataset of faces. Consists of grayscale images of faces of several persons taken in different positions. |
 |[11][12] |[CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) | CIFAR-10 and CIFAR-100 are benchmark datasets
