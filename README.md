@@ -1,10 +1,10 @@
 # Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey 
 
-Everything about code sources, datasets and data sources mentioned in the survey paper "Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey".(#description)
+Everything about code sources, datasets and data sources mentioned in the survey paper "Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey".
 
 _ _ _
 
-## Table of contents
+## Table of contents (#1)
 * Research articles by areas 
 * Data and code sources used by attacks
   * Stealing controlled user activities information
@@ -116,4 +116,4 @@ _ _ _
 
 
 
-[top](#description) [back](https://github.com/skyInGitHub/Machine-Learning-Based-Cyber-Attacks-Targeting-on-Controlled-Information-A-Survey)
+[top](#1) [back](https://github.com/skyInGitHub/Machine-Learning-Based-Cyber-Attacks-Targeting-on-Controlled-Information-A-Survey)
