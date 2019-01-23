@@ -55,7 +55,7 @@ _ _ _
 - [20] Stealing controlled password data for authentication - protect with modeling password guessability: [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (USENIX, 2016)](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf)
 
 _ _ _
-### Code source
+### Code source used by attacks
 
 |Related paper         | Code resource          | Introduction |
 |:-------------|:------------------|:------|
