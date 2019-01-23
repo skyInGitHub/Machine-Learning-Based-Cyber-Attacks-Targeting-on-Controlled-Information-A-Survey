@@ -109,10 +109,20 @@ _ _ _
 
 _ _ _
 #### Stealing controlled authentication inforamtion
-|Related paper         | Dataset          | Introduction|
-| -------------------- |:----------------:| --------:|
-|[5]|Synthetic obfuscation C code|5 obfuscating transformations apply to each of 4608 synthetic C programs with security check. Totally, 23,040 synthetic obfuscation C programs are included in this dataset.|
-|[14]|Sythetic network graph|A simple graph represented by four main node patterns: “center of a star”, “edge of a star”, “bridge nodes” (connecting stars/cliques), and “clique nodes”.|
+|Related paper         | Data source          | Introduction|
+|:-------------|:------------------|:------|
+|[14]       |Acceleration dataset | The acceleration data are processed to extract the data points relevant to movements between keystrokes |
+|[18]       |[Dodonew](https://raidforums.com/Thread-Dodonew-Database-Leaked-Download)      |Data was obtained from the Chinese website known as Dodonew.com and contained 16M accounts. The data is plaintext. |
+|[18]       |[CSDN leaked password dataset](https://gist.github.com/cpylua/2708012)          |CSDN - web services for programmer - leaked passwords summary |
+|[18][19]   |[Rockyou](https://wiki.skullsecurity.org/Passwords)  |Rockyou leaked passwords dataset |
+|[18]       |[Rootkit](https://thehackernews.com/2011/02/rootkitcom-database-leaked-by-anonymous.html) |Rootkit.com database leaked by Anonymous Hackers |
+|[18]       |[Yahoo Password Frequency Corpus](https://figshare.com/articles/Yahoo_Password_Frequency_Corpus/2057937) |This dataset includes sanitized password frequency lists collected from Yahoo in May 2011. |
+|[18][20]   |[000webhost](http://www.forbes.com/sites/thomasbrewster/2015/10/28/000webhost-database-leak/) |13 Million Passwords Appear To Have Leaked From This Free Web Host |
+|[20]       |PGS Training set |Password Guessability Service (PGS) used by a [research work](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ur.pdf). This set totals 33 million passwords and 5.9 million natural-language words.|
+|[20]       |1class8  |Passwords collected for a [research study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6234434) which passwords are longer than eight characters. |
+|[20]       |1class16 |Passwords collected for a [research study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6234434) which passwords are longer than sixteen characters. |
+|[20]       |3class12 |Passwords collected for a [research study](https://dl.acm.org/citation.cfm?id=2557377) which passwords must contain at least three character classes (uppercase letters, lowercase letters, symbols, digits) and be at least twelve characters long. |
+|[20]       |4class8  |Passwords collected for a [research study](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab13013.pdf) which passwords must contain all four character classes and be at least eight characters long. |
 
 
 [back](https://github.com/skyInGitHub/Machine-Learning-Based-Cyber-Attacks-Targeting-on-Controlled-Information-A-Survey)
