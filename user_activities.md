@@ -1,17 +1,15 @@
 ## Stealing controlled user activities information
 
+_ _ _
 ### ML-based Stealing Attack
 
-***
 <p> According to utilized kernel data and sensor data, controlled user activities information were stolen with timing analysis and frequency analysis. For the attack using kernel data, we review the attack utilizing the interrupt sources like procfs and OS-level information like memory, network, and file system information. The sensor information can reveal the controlled user activity information indirectly, i.e. acoustic and magnetic data.</p>
 
 <p align="center"><img width="725" alt="attack_activity" src="https://user-images.githubusercontent.com/13388819/51515178-cdd07900-1e66-11e9-92d4-3f36e5510d29.png"></p> 
 <p align="center">Fig 2. The ML-based Stealing Attack Against User Activities Information</p>
 
-
+_ _ _
 ### Data source
-
-***
 
 
 |Related paper         | Data source          | Introduction|
@@ -23,11 +21,9 @@
 |[6]       |[MPU6500 Sensor](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6500-Datasheet2.pdf)  |MPU-6500 Product Specification including Gyroscope and Accelerometer sensor |
 
 
-
+_ _ _
 ### More information on the data source
 
-
-***
 
 
 |Data source         | Release by whom          | Sample data |
@@ -36,10 +32,8 @@
 |[MPU6500 Sensor](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6500-Datasheet2.pdf) |InvenSense | [Gyroscope & Accelerometer Datasheet](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6500-Datasheet2.pdf) |
 
 
+_ _ _
 ### Code source
-
-
-***
 
 
 |Related paper         | Code resource          | Introduction |
@@ -47,10 +41,8 @@
 |[2] |[ProcHarvester](https://github.com/iaik/procharvester)  |This is the Proof-of-Concept implementation of ProcHarvester - a tool fully automated analysis of Procfs side-channel leaks on Android. |
 
 
+_ _ _
 ### Related tools
-
-***
-
 
 
 
