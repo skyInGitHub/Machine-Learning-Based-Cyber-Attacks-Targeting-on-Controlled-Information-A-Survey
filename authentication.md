@@ -16,11 +16,18 @@
 
 |Related paper         | Data source          | Introduction|
 |:-------------|:------------------|:------|
-|[1]       |[Unlock Pattern](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546515) |Experimental dataset for unlock pattern inference attack enumerated in Appendix of paper [1]|
-|[1][2][3] |[Google Paly](https://play.google.com/store)  |Offical app store for the Android operating system |
-|[3]       |[Alexa Top Website](https://www.alexa.com/topsites)      |List of top 500 global websites |
-|[3]       |[Moz Top Website](https://moz.com/top500)          |List of the top 500 registered domains (∗.example.com) ranked by the number of linking root domains |
-|[6]       |[MPU6500 Sensor](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6500-Datasheet2.pdf)  |MPU-6500 Product Specification including Gyroscope and Accelerometer sensor |
+|[14]       |Acceleration dataset | The acceleration data are processed to extract the data points relevant to movements between keystrokes |
+|[18]       |[Dodonew](https://raidforums.com/Thread-Dodonew-Database-Leaked-Download)      |Data was obtained from the Chinese website known as Dodonew.com and contained 16M accounts. The data is plaintext. |
+|[18]       |[CSDN leaked password dataset](https://gist.github.com/cpylua/2708012)          |CSDN - web services for programmer - leaked passwords summary |
+|[18][19]   |[Rockyou](https://wiki.skullsecurity.org/Passwords)  |Rockyou leaked passwords dataset |
+|[18]       |[Rootkit](https://thehackernews.com/2011/02/rootkitcom-database-leaked-by-anonymous.html) |Rootkit.com database leaked by Anonymous Hackers |
+|[18]       |[Yahoo Password Frequency Corpus](https://figshare.com/articles/Yahoo_Password_Frequency_Corpus/2057937) |This dataset includes sanitized password frequency lists collected from Yahoo in May 2011. |
+|[18][20]   |[000webhost](http://www.forbes.com/sites/thomasbrewster/2015/10/28/000webhost-database-leak/) |13 Million Passwords Appear To Have Leaked From This Free Web Host |
+|[20]       |PGS Training set |Password Guessability Service (PGS) used by a [research work](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ur.pdf). This set totals 33 million passwords and 5.9 million natural-language words.|
+|[20]       |1class8  |Passwords collected for a [research study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6234434) which passwords are longer than eight characters. |
+|[20]       |1class16 |Passwords collected for a [research study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6234434) which passwords are longer than sixteen characters. |
+|[20]       |3class12 |Passwords collected for a [research study](https://dl.acm.org/citation.cfm?id=2557377) which passwords must contain at least three character classes (uppercase letters, lowercase letters, symbols, digits) and be at least twelve characters long. |
+|[20]       |4class8  |Passwords collected for a [research study](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab13013.pdf) which passwords must contain all four character classes and be at least eight characters long. |
 
 
 
@@ -32,22 +39,20 @@
 
 |Data source         | Release by whom          | Sample data |
 |:-------------|:------------------|:------|
-|[Google Play](https://play.google.com/store?hl=en) |Google Technical company  |[Android Apps](https://play.google.com/store/apps?hl=en) |
-|[MPU6500 Sensor](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6500-Datasheet2.pdf) |InvenSense | [Gyroscope & Accelerometer Datasheet](https://www.invensense.com/wp-content/uploads/2015/02/MPU-6500-Datasheet2.pdf) |
+|[SkullSecurity - Passwords](https://wiki.skullsecurity.org/Passwords) |skullsecurity.org  |hotmail leaked password |
+|[Yahoo Password Frequency Corpus](https://figshare.com/articles/Yahoo_Password_Frequency_Corpus/2057937) | Joseph Bonneau | yahoo-activity-login-<30d |
 
 
-### Related tools
+
+### Code source
+
 
 ***
 
 
-
-
-|Tool         | Release by whom          | Tip |
+|Related paper         | Code resource          | Introduction |
 |:-------------|:------------------|:------|
-|[Amazon SageMaker](https://aws.amazon.com/sagemaker/): ML services - Build, train, and deploy machine learning models fast |Amazon Company |[How it works?](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works.html) |
-|[BigML](https://bigml.com/): A ML service offers an easy-to-use interface for user to import user's data and get predictions out of it  |BigML Inc. |[How it works?](https://bigml.com/how_it_works) |
-|[CLOUD MACHINE LEARNING ENGINE](https://cloud.google.com/ml-engine/): Build superior models and deploy them into production |Google Cloud |[How to use?](https://cloud.google.com/ml-engine/docs/tensorflow/how-tos) |
+|[20] |[neural_network_cracking](https://github.com/cupslab/neural_network_cracking)  |Neural Network with passwords. This Python program uses a neural network to guess passwords. This is software used and maintained by students for a research project and likely will have many bugs and issues. |
 
 
 
