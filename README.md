@@ -64,7 +64,7 @@ _ _ _
 |[9] |[Model-Inversion-Attack](https://github.com/yashkant/Model-Inversion-Attack) |A TensorFlow Implementation of the Model Inversion Attack |
 |[11] |[Membership Inference Attack](https://github.com/csong27/membership-inference) |Python code for Membership Inference Attack against Machine Learning Models |
 |[12] |[Membership Privacy using Adversarial Regularization](https://github.com/SPIN-UMass/ML-Privacy-Regulization) |Python code for Machine Learning with Membership Privacy using Adversarial Regularization with dataset usage |
-
+|[20] |[neural_network_cracking](https://github.com/cupslab/neural_network_cracking)  |Neural Network with passwords. This Python program uses a neural network to guess passwords. This is software used and maintained by students for a research project and likely will have many bugs and issues. |
 
 _ _ _
 ### Dataset sources used by attacks
