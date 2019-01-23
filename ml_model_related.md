@@ -31,8 +31,7 @@
 |[9] |[FiveThirtyEight](https://fivethirtyeight.com/features/how-americans-like-their-steak/)  |Sharing the data and code behind some of our articles and graphics. |
 |[10][11] |[MNIST](http://yann.lecun.com/exdb/mnist/) |The benchmark dataset of choice in several deep learning applications. It consists of handwritten grayscale images of digits ranging from 0 to 9. Each image is of 32 × 32 pixels and centered. |
 |[10] |[AT&T dataset of faces](https://www.kaggle.com/sivarajh/olivetti-faces) |a.k.a. Olivetti dataset of faces. Consists of grayscale images of faces of several persons taken in different positions. |
-|[11][12] |[CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) | CIFAR-10 and CIFAR-100 are benchmark datasets
-used to evaluate image recognition algorithms |
+|[11][12] |[CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) | CIFAR-10 and CIFAR-100 are benchmark datasets used to evaluate image recognition algorithms |
 |[11][12] |[Purchase](https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data) | Acquire aalued shoppers: Predict which shoppers will become repeat buyers. This data captures the process of offering incentives (a.k.a. coupons) to a large number of customers and forecasting those who will become loyal to the product. |
 |[11] |[Foursquare dataset](https://sites.google.com/site/yangdingqi/home/foursquare-dataset) |Set of mobile users’ location “check-ins” in the Foursquare social network, restricted to the Bangkok area and collected from April 2012 to September 2013 |
 |[11][12] |[Texas hospital stays](https://www.dshs.texas.gov/THCIC/Hospitals/Download.shtm) |This dataset is based on the Hospital Discharge Data public use files with information about inpatients stays in several health facilities,8 released by the Texas Department of State Health Services from 2006 to 2009. |
