@@ -6,7 +6,7 @@ _ _ _
 
 ## Table of contents
 * Research articles by areas 
-* Data sources used by attacks
+* Data and code sources used by attacks
   * Stealing controlled user activities information
   * Stealing controlled ML model related information
   * Stealing controlled authentication inforamtion
