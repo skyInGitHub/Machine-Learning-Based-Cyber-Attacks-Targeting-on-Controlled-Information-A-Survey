@@ -86,7 +86,7 @@ _ _ _
 |:-------------|:------------------|:------|
 |[7][9] |[GSShappiness](https://github.com/ftramer/Steal-ML/blob/master/data/GSShappiness.csv) |Dataset used for model extraction taken from GSS survey|
 |[7] |[steak](https://github.com/ftramer/Steal-ML/blob/master/data/steak.csv) |Dataset used for model extraction taken from Steak survey |
-|[7][11] |Adult(Income)](https://archive.ics.uci.edu/ml/datasets/Adult) |Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset. |
+|[7][11] |[Adult(Income)](https://archive.ics.uci.edu/ml/datasets/Adult) |Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset. |
 |[7][8] |[Iris](https://archive.ics.uci.edu/ml/datasets/Iris) |A best known database in the pattern recognition literature. |
 |[7] |[Optical Recognition of Handwritten Digits Data Set](https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits) |Normalized bitmaps of handwritten digits from a preprinted form |
 |[7] |[Breast Cancer Wisconsin (Original) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29) |Original Wisconsin Breast Cancer Database |
