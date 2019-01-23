@@ -55,6 +55,18 @@ _ _ _
 - [20] Stealing controlled password data for authentication - protect with modeling password guessability: [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (USENIX, 2016)](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf)
 
 _ _ _
+### Code source
+
+|Related paper         | Code resource          | Introduction |
+|:-------------|:------------------|:------|
+|[2] |[ProcHarvester](https://github.com/iaik/procharvester)  |This is the Proof-of-Concept implementation of ProcHarvester - a tool fully automated analysis of Procfs side-channel leaks on Android. |
+|[7] |[Model extraction attacks on Machine-Learning-as-a-Service platforms](https://github.com/ftramer/Steal-ML)  |Python implementation of extraction attacks against Machine Learning models including utilized datasets |
+|[9] |[Model-Inversion-Attack](https://github.com/yashkant/Model-Inversion-Attack) |A TensorFlow Implementation of the Model Inversion Attack |
+|[11] |[Membership Inference Attack](https://github.com/csong27/membership-inference) |Python code for Membership Inference Attack against Machine Learning Models |
+|[12] |[Membership Privacy using Adversarial Regularization](https://github.com/SPIN-UMass/ML-Privacy-Regulization) |Python code for Machine Learning with Membership Privacy using Adversarial Regularization with dataset usage |
+
+
+_ _ _
 ### Dataset sources used by attacks
 
 _ _ _
