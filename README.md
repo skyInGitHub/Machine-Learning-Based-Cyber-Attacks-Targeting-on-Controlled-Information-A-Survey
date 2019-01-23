@@ -50,7 +50,7 @@ _ _ _
 
 - [18] Stealing controlled password data for authentication - online password guessing attack: [Targeted Online Password Guessing: An Underestimated Threat (ACM CCS, 2016)](http://eprints.lancs.ac.uk/85017/1/ccs16.pdf)
 
-- [19] Stealing controlled password data for authentication - attack with semantic pattern analysis: [On the semantic patterns of passwords and their security impact (NDSS, 2014)](https://www.researchgate.net/profile/Christopher_Collins5/publication/269196925_On_the_Semantic_Patterns_of_Passwords_and_their_Security_Impact/links/589299aa92851cda256a3638/On-the-Semantic-Patterns-of-Passwords-and-their-Security-Impact.pdf)
+- [19] Stealing controlled password data for authentication - attack with semantic pattern analysis: [On the semantic patterns of passwords and their security impact (NDSS, 2014)](http://thorpe.hrl.uoit.ca/documents/On_the_Semantic_Patterns_of_Passwords_and_their_Security_Impact_NDSS2014.pdf)
 
 - [20] Stealing controlled password data for authentication - protect with modeling password guessability: [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (USENIX, 2016)](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf)
 
