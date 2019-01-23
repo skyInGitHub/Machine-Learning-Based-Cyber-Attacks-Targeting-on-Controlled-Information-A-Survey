@@ -1,17 +1,18 @@
 ## Stealing controlled authentication information
 
-### ML-based Stealing Attack
 
 ***
+### ML-based Stealing Attack
+
 <p>The controlled authentication information mainly contains keystroke data, secret keys and password data. As shown in Fig 4, classification models or probabilistic models are trained to steal the controlled authentication information. Leveraging the acceleration, acoustic and video information, we review the attack stealing these keystroke information. We also investigate the attack stealing controlled secret key information via analyzing the state of targeted cache set. Moreover, we study the password guessing attack by analyzing the password patterns with ML techniques.</p>
 
 <p align="center"><img width="725" alt="attack_authen" src="https://user-images.githubusercontent.com/13388819/51515290-33246a00-1e67-11e9-99fb-8fe2a1b99609.png"></p> 
 <p align="center">Fig 4. The ML-based Stealing Attack Against Authentication Information</p>
 
 
-### Data source
 
 ***
+### Data source
 
 
 |Related paper         | Data source          | Introduction|
@@ -30,12 +31,8 @@
 |[20]       |4class8  |Passwords collected for a [research study](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab13013.pdf) which passwords must contain all four character classes and be at least eight characters long. |
 
 
-
-### More information on the data source
-
-
 ***
-
+### More information on the data source
 
 |Data source         | Release by whom          | Sample data |
 |:-------------|:------------------|:------|
@@ -44,10 +41,8 @@
 
 
 
-### Code source
-
-
 ***
+### Code source
 
 
 |Related paper         | Code resource          | Introduction |
