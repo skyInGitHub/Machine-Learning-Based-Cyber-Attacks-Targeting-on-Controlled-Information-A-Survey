@@ -46,7 +46,7 @@ _ _ _
 
 - [16] Stealing controlled secret keys for authentication - attack with TLB cache data: [Translation Leak-aside Buffer: Defeating Cache Side-channel Protections with TLB Attacks (USENIX, 2018)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-gras.pdf)
 
-- [17] Stealing controlled secret keys for authentication - attack & protect with CPU cache data: [A software approach to defeating side channels in last-level caches (ACM CCS, 2016)](http://delivery.acm.org/10.1145/2980000/2978324/p871-zhou.pdf?ip=101.176.75.238&id=2978324&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E8A0A9AC1EB2AB412&__acm__=1548111551_9e024df16fa23252e5ccb855eb9c7681)
+- [17] Stealing controlled secret keys for authentication - attack & protect with CPU cache data: [A software approach to defeating side channels in last-level caches (ACM CCS, 2016)](http://web.cse.ohio-state.edu/~zhang.834/papers/ccs16a.pdf)
 
 - [18] Stealing controlled password data for authentication - online password guessing attack: [Targeted Online Password Guessing: An Underestimated Threat (ACM CCS, 2016)](http://eprints.lancs.ac.uk/85017/1/ccs16.pdf)
 
